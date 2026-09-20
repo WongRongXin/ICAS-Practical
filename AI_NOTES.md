@@ -18,3 +18,9 @@ I did it using Chatgpt freemium model. Hence, all the issue will be asked on spo
 3. What you changed yourself.
 
 I did not change anything yet, I still learning from the code that amend by chatgpt.
+
+4. Short, plain and honest: what you would do differently with more time, and what you did not finish or are not happy with.
+
+I did not touch the coding part that much, but I understand this text is to make the system to reply the correct message when facing the respective error for better User Experience (understand the situation).
+
+If I have more time, I will learn more on the coding part to make the system better.
